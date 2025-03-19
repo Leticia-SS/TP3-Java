@@ -1,4 +1,4 @@
-package Exercicio07;
+package Exercicio07_a_09;
 
 public class TesteConta {
     public static void main(String[] args) {
